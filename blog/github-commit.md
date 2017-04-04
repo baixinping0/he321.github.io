@@ -69,4 +69,4 @@ SSH警告
 
 
 
-![GitHub Logo](/home/bxp/图片/选区_004.png)
+![GitHub Logo](../image/bbtest.png)
