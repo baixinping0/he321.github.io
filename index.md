@@ -1,33 +1,9 @@
 
 
-<h1>技术博客</h1>
-[github命令](https://github.com/he321/he321.github.io/blob/master/blog/github-commit.md)
-
-
-[图像制作网站](http://echarts.baidu.com/)
-
-[IO阻塞同步详解](http://blog.csdn.net/historyasamirror/article/details/5778378)
-
-[优秀博客](https//bestswifter.com/)
-
-[优秀博客](http://www.cnblogs.com/xrq730/category/740512.html)
-
-[hashMap工作原理](http://www.importnew.com/7099.html)
-
-[github博客，谷歌面试准备](github.com/jwasham)
-
-[面试准备总结](https://troywu0.gitbooks.io/hadoop/content/linuxchang_yong_ming_ling.html)
-
-[CAS原理](http://www.cnblogs.com/dayhand/p/3713303.html，http://zl198751.iteye.com/blog/1848575)
-
-[并发编程网](http://ifeve.com/atomic-operation/)
-
-[线程中断详解](http://www.infoq.com/cn/articles/java-interrupt-mechanism)
-
-[concurrentHashMap](https://www.ibm.com/developerworks/cn/java/java-lo-concurrenthashmap/)
-
-[java线程池源码解析](http://fangjian0423.github.io/2016/03/22/java-threadpool-analysis/)
-
-[mysql索引](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
-
-[jdk1.8内存划分变化](http://www.infoq.com/cn/articles/Java-PERMGEN-Removed)
+<h1>专属博客</h1>
+    <h3>java虚拟机</h3>
+    
+        [java内存区域划分](https://github.com/he321/he321.github.io/blob/master/blog/java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E5%88%92%E5%88%86.md)
+        [GC原理祥解](https://github.com/he321/he321.github.io/blob/master/blog/gc%E5%8E%9F%E7%90%86.md)
+        
+        [github命令](https://github.com/he321/he321.github.io/blob/master/blog/github-commit.md)
