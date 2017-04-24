@@ -25,3 +25,9 @@
 [mysql索引](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 [jdk1.8内存划分变化](http://www.infoq.com/cn/articles/Java-PERMGEN-Removed)
+<h3>磁盘</h3>
+[磁盘的工作原理](http://m.blog.csdn.net/article/details?id=7408047)
+
+[磁盘调度算法](http://m.blog.csdn.net/article/details?id=7532651)
+
+[磁盘列阵](http://m.blog.csdn.net/article/details?id=7543539)
