@@ -8,3 +8,6 @@
 [GC原理祥解](https://github.com/he321/he321.github.io/blob/master/blog/gc%E5%8E%9F%E7%90%86.md)
 
 [github命令](https://github.com/he321/he321.github.io/blob/master/blog/github-commit.md)
+
+<h3>收集</h3>
+[博客链接](https://github.com/he321/he321.github.io/blob/master/blog/collectionLink.md)
