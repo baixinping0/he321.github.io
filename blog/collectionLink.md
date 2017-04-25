@@ -2,6 +2,8 @@
 
 [IO阻塞同步详解](http://blog.csdn.net/historyasamirror/article/details/5778378)
 
+[阻塞队列](http://fangjian0423.github.io/2016/05/10/java-arrayblockingqueue-linkedblockingqueue-analysis/)
+
 [优秀博客](https//bestswifter.com/)
 
 [优秀博客](http://www.cnblogs.com/xrq730/category/740512.html)
