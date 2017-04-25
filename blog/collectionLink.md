@@ -32,3 +32,5 @@
 [磁盘调度算法](http://m.blog.csdn.net/article/details?id=7532651)
 
 [磁盘列阵](http://m.blog.csdn.net/article/details?id=7543539)
+
+[数据库文件存储](http://www.postgres.cn/news/viewone/1/220)
